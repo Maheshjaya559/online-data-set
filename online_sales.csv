@@ -1,0 +1,11 @@
+order_id,sales_person,country,product,order_date,amount,boxes_shipped
+11,Alice,USA,Laptop,2023-07-05,2600,2
+12,Bob,UK,Tablet,2023-07-15,1300,3
+13,Charlie,Germany,Monitor,2023-08-10,900,4
+14,David,India,Laptop,2023-08-22,2550,2
+15,Ella,USA,Tablet,2023-09-01,1200,5
+16,Frank,UK,Monitor,2023-09-17,850,3
+17,Grace,Germany,Laptop,2023-10-05,2700,2
+18,Heidi,India,Tablet,2023-10-18,1350,4
+19,Ivan,USA,Monitor,2023-11-11,950,3
+20,Judy,UK,Laptop,2023-12-03,2650,2
